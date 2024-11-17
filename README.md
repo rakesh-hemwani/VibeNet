@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -41,3 +42,7 @@ Bun Installation :-
 npm install -g bun
 
 
+=======
+# VibeNet
+VibeNet is a collaboration platform that connects individuals by aligning their unique mindsets. Empowering teams to communicate, vote, and make decisions together, it fosters meaningful engagement and collective growth.
+>>>>>>> ac5231a4f6d8cfa0eb0289659a6a5a82a432e8c9
