@@ -1,0 +1,2 @@
+Todos:-  
+Fix the Google Icon size in features/auth/components/Sign-in card
