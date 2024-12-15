@@ -48,4 +48,5 @@ VibeNet is a collaboration platform that connects individuals by aligning their 
 
 - Added Github signin 
 - Used Convex for database and some backend 
+- Added dev branch for further changes
 
