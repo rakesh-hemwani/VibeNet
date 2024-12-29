@@ -41,12 +41,18 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 Bun Installation :- 
 npm install -g bun
 
+## To Run
+
+Bun run dev
+bun convex dev
+
 
 =======
 # VibeNet
 VibeNet is a collaboration platform that connects individuals by aligning their unique mindsets. Empowering teams to communicate, vote, and make decisions together, it fosters meaningful engagement and collective growth.
 
-- Added Github signin 
+- Added Github Google Password Auth 
 - Used Convex for database and some backend 
 - Added dev branch for further changes
+
 
